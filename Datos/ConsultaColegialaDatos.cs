@@ -16,6 +16,7 @@ namespace Datos
         // comentario de la nueva rama de cobranza
         //otra perrita
         // cambios francois
+        // cambios Francois otra vez
         public List<Colegiala> listacolegiala()
         {
             List<Colegiala> Colegiala = null;
