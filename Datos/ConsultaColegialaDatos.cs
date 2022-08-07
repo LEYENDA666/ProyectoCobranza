@@ -12,6 +12,7 @@ namespace Datos
         // solo agregamos un pinche comentario
         // solo agregamos otro pinche comentario
         // comentario de cobranza0
+        //comentario de cobranza1
         public List<Colegiala> listacolegiala()
         {
             List<Colegiala> Colegiala = null;
