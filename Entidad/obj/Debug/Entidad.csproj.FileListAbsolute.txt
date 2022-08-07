@@ -1,0 +1,9 @@
+C:\Users\REYES\Documents\Proyectosmvc\PracticaCompleta\Redencion\Entidad\bin\Debug\Entidad.dll.config
+C:\Users\REYES\Documents\Proyectosmvc\PracticaCompleta\Redencion\Entidad\bin\Debug\Entidad.dll
+C:\Users\REYES\Documents\Proyectosmvc\PracticaCompleta\Redencion\Entidad\bin\Debug\Entidad.pdb
+C:\Users\REYES\Documents\Proyectosmvc\PracticaCompleta\Redencion\Entidad\bin\Debug\EntityFramework.dll
+C:\Users\REYES\Documents\Proyectosmvc\PracticaCompleta\Redencion\Entidad\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\REYES\Documents\Proyectosmvc\PracticaCompleta\Redencion\Entidad\bin\Debug\EntityFramework.xml
+C:\Users\REYES\Documents\Proyectosmvc\PracticaCompleta\Redencion\Entidad\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\REYES\Documents\Proyectosmvc\PracticaCompleta\Redencion\Entidad\obj\Debug\Entidad.dll
+C:\Users\REYES\Documents\Proyectosmvc\PracticaCompleta\Redencion\Entidad\obj\Debug\Entidad.pdb

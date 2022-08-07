@@ -1,0 +1,11 @@
+C:\Users\REYES\Documents\Proyectosmvc\PracticaCompleta\Redencion\Negocio\bin\Debug\Negocio.dll
+C:\Users\REYES\Documents\Proyectosmvc\PracticaCompleta\Redencion\Negocio\bin\Debug\Negocio.pdb
+C:\Users\REYES\Documents\Proyectosmvc\PracticaCompleta\Redencion\Negocio\bin\Debug\Datos.dll
+C:\Users\REYES\Documents\Proyectosmvc\PracticaCompleta\Redencion\Negocio\bin\Debug\Entidad.dll
+C:\Users\REYES\Documents\Proyectosmvc\PracticaCompleta\Redencion\Negocio\bin\Debug\EntityFramework.dll
+C:\Users\REYES\Documents\Proyectosmvc\PracticaCompleta\Redencion\Negocio\bin\Debug\Datos.pdb
+C:\Users\REYES\Documents\Proyectosmvc\PracticaCompleta\Redencion\Negocio\bin\Debug\Entidad.pdb
+C:\Users\REYES\Documents\Proyectosmvc\PracticaCompleta\Redencion\Negocio\bin\Debug\EntityFramework.xml
+C:\Users\REYES\Documents\Proyectosmvc\PracticaCompleta\Redencion\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\REYES\Documents\Proyectosmvc\PracticaCompleta\Redencion\Negocio\obj\Debug\Negocio.dll
+C:\Users\REYES\Documents\Proyectosmvc\PracticaCompleta\Redencion\Negocio\obj\Debug\Negocio.pdb

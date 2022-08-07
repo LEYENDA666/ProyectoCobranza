@@ -1,0 +1,56 @@
+﻿@model  Redencion.Models.ResumenColegiala
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(Model => Model.panocharica.FirstOrDefault().Nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(Model => Model.panocharica.FirstOrDefault().edad)
+        </th>
+        <th>
+            @Html.DisplayNameFor(Model => Model.panocharica.FirstOrDefault().nivelcaliente)
+        </th>
+        <th>
+            @Html.DisplayNameFor(Model => Model.panocharica.FirstOrDefault().estado)
+        </th>
+        <th>
+            @Html.DisplayNameFor(Model => Model.panocharica.FirstOrDefault().Tragona)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model.panocharica) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nombre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.edad)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.nivelcaliente)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.estado)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Tragona)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.id }) |
+            @Html.ActionLink("Details", "Details", new { id=item.id }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.id })
+        </td>
+    </tr>
+}
+
+</table>
