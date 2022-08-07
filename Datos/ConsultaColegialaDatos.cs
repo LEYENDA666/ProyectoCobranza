@@ -9,7 +9,7 @@ namespace Datos
 {
     public class ConsultaColegialaDatos
     {
-
+        // solo agregamos un pinche comentario
         public List<Colegiala> listacolegiala()
         {
             List<Colegiala> Colegiala = null;
