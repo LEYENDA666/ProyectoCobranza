@@ -19,6 +19,7 @@ namespace Datos
         // cambios Francois otra vez
        // cambios en rama CobranzaCambiosN
        // cambio en clase 13/08/2022 22:46
+       //cambio francois 13/08/2022 22:50
         public List<Colegiala> listacolegiala()
         {
             List<Colegiala> Colegiala = null;
